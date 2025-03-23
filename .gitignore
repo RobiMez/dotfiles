@@ -7,3 +7,10 @@
 # And not these directories...
 !.config/
 !.config/**
+
+# Cursor directory
+!AppData/
+!AppData/Roaming/
+!AppData/Roaming/Cursor/
+!AppData/Roaming/Cursor/User/
+!AppData/Roaming/Cursor/User/settings.json
